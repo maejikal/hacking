@@ -1,5 +1,5 @@
 hacker intercepts arp requests between clients and server, monitoring the packets being exchanged
-Man-in-the-middle
+<p>Man-in-the-middle</p>
 
 - clients accept responses even if they did not send a request
 - clients trust repsonse without any form of verification
